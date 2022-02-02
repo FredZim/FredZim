@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fred Zimmermsan
-- 👀 I’m interested in Data Integration 
+- 👀 I’m interested in Data Integration and ETL
 - 🌱 I’m currently learning Springboot and Jmix.io
-- 💞️ I’m looking to collaborate on Jmix.io
+- 💞️ I’m looking to collaborate on Data Integration, ETL and Jmix.io
 - 📫 How to reach me ...
 
 <!---
